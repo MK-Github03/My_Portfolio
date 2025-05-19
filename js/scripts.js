@@ -230,13 +230,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
 //footer bro - 
 document.addEventListener("DOMContentLoaded", () => {
-  const taglines = [
+    const taglines = [
     "Created, customized, and lowkey obsessed over by Manoj Kumar Ashok.",
     "Designed, developed, and occasionally debugged by Manoj Kumar Ashok.",
     "Built with pixels, caffeine, and barely enough sleep — Manoj Kumar Ashok.",
     "If it breaks, it’s still my fault — Manoj Kumar Ashok.",
-    "Manufactured with curiosity and controlled chaos — Manoj Kumar Ashok."
+    "Manufactured with curiosity and controlled chaos — Manoj Kumar Ashok.",
+    "Fueled by logic, sarcasm, and a stupid amount of console logs — Manoj Kumar Ashok.",
+    "Powered by Stack Overflow and stubbornness — Manoj Kumar Ashok.",
+    "100% hand-coded, 0% template regret — Manoj Kumar Ashok.",
+    "More than just another pretty portfolio — Manoj Kumar Ashok.",
+    "Written by a human, not ChatGPT... probably — Manoj Kumar Ashok.",
+    "Built for recruiters, optimized for dopamine — Manoj Kumar Ashok.",
   ];
+
 
   const footerEl = document.getElementById("footer-tagline");
   if (footerEl) {
