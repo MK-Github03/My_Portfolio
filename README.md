@@ -1,6 +1,6 @@
-# 👨‍💻 Manoj Kumar Ashok — Personal Portfolio
+# 👨‍💻 Manoj Kumar Ashok ; Personal Portfolio
 
-Welcome to my personal portfolio website, where I showcase my skills in data science, machine learning, and creative problem-solving — with a bit of visual flair.
+Welcome to my personal portfolio website, where I showcase my skills in data science, machine learning, and creative problem-solving - with a bit of visual flair.
 
 🌐 **Live Site**: [https://manojkumarashok.com](https://manojkumarashok.com)
 
