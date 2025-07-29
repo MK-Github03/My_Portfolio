@@ -233,11 +233,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const taglines = [
     "Created, customized, and lowkey obsessed over by Manoj Kumar Ashok.",
     "Designed, developed, and occasionally debugged by Manoj Kumar Ashok.",
-    "Built with pixels, caffeine, and barely enough sleep — Manoj Kumar Ashok.",
-    "If it breaks, it’s still my fault — Manoj Kumar Ashok.",
-    "Manufactured with curiosity and controlled chaos — Manoj Kumar Ashok.",
-    "Written by a human, not ChatGPT... probably — Manoj Kumar Ashok.",
-    "Built for recruiters, optimized for dopamine — Manoj Kumar Ashok.",
+    "Built with pixels, caffeine, and barely enough sleep - Manoj Kumar Ashok.",
+    "If it breaks, it’s still my fault - Manoj Kumar Ashok.",
+    "Manufactured with curiosity and controlled chaos - Manoj Kumar Ashok.",
+    "Written by a human, not ChatGPT... probably - Manoj Kumar Ashok.",
+    "Built for recruiters, optimized for dopamine - Manoj Kumar Ashok.",
   ];
 
 
