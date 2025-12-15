@@ -56,4 +56,4 @@ Welcome to my personal portfolio website, where I showcase my skills in data sci
 
 ---
 
-> Built with curiosity, caffeine, and maybe a few typos — but 100% mine.
+> Built with curiosity, caffeine, and maybe a few typos - but 100% mine.
