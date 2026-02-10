@@ -128,7 +128,7 @@ const syncPointer2 = ({ x: pointerX, y: pointerY }) => {
     } else if (time >= 16 && time < 20) {
       return "Good evening! ";
     } else {
-      return "Hello there, nocturnal beast! ";
+      return "Hello there, night owl! ";
     }
 }
 
