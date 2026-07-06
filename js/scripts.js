@@ -256,14 +256,14 @@ document.addEventListener("DOMContentLoaded", function () {
   setTimeout(() => {
     new Typed("#typed-text", {
       strings: [
-        "Data Science", //\u{1F4BB}",              // 💻
-        "Machine Learning",// \u{1F9E0}",          // 🧠
-       "Artificial Intelligence", //\u{1F916}",   // 🤖
-        "Deep Learning", //\u{1F9EC}",            // 🧬
-        "Computer Vision", //\u{1F441}",          // 👁️
-       "Natural language processing" //\u{1F5E3}"  // 🗣️
-
-      ],
+  "Data Science",
+  "Predictive Modeling",
+  "Machine Learning",
+  "SQL & Python Analytics",
+  "Data Engineering",
+  "Business Intelligence",
+  "Dashboarding & Reporting"
+],
       typeSpeed: 60,
       backSpeed: 40,
       backDelay: 3000,   // keeps each word for 3 seconds
